@@ -15,4 +15,3 @@ clas Person
     @job = job
   end
   
-end
